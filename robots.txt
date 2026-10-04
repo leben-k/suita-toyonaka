@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://leben-k.github.io/suita-toyonaka/sitemap.xml
